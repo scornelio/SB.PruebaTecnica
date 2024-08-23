@@ -1,0 +1,6 @@
+@SB.PruebaTecnica.API_HostAddress = http://localhost:5212
+
+GET {{SB.PruebaTecnica.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
